@@ -24,3 +24,17 @@ new Various educators teach rules governing the length of paragraphs. They may s
 line
 add again
 bgdg
+! [rejected] devlop -> devlop (non-fast-forward)
+error: failed to push some refs to 'github.com:rahulchotaliya05/Test-git.git'
+
+! [rejected] devlop -> devlop (non-fast-forward)
+error: failed to push some refs to 'github.com:rahulchotaliya05/Test-git.git'
+
+! [rejected] devlop -> devlop (non-fast-forward)
+error: failed to push some refs to 'github.com:rahulchotaliya05/Test-git.git'
+
+! [rejected] devlop -> devlop (non-fast-forward)
+error: failed to push some refs to 'github.com:rahulchotaliya05/Test-git.git'
+
+! [rejected] devlop -> devlop (non-fast-forward)
+error: failed to push some refs to 'github.com:rahulchotaliya05/Test-git.git'
