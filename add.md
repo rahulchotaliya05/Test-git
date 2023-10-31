@@ -1,5 +1,6 @@
 commit file
 add new line
+commit file
 
 <<<<<<< HEAD
 commit Various educatorsVarious educators teach rules governing the length of paragraphs. They may say that a paragraph should be 100 to 200 words long, or be no more than five or six sentences. But a good paragraph should not be measured in characters, words, or sentences. The true measure of your paragraphs should be ideas.
@@ -44,3 +45,5 @@ error: failed to push some refs to 'github.com:rahulchotaliya05/Test-git.git'
 
 change in devlop branch
 change in stage branch
+
+ftghfhfxghfjgchh
