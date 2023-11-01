@@ -1,3 +1,10 @@
+Rejected Non Fast Forward-Git Push Rejected “Non-Fast-Forward”Rejected Non Fast Forward-Git Push Rejected “Non-Fast-Forward”Rejected Non Fast Forward-Git Push Rejected “Non-Fast-Forward”
+
+Rejected Non Fast Forward-Git Push Rejected “Non-Fast-Forward”
+commit fileRejected Non Fast Forward-Git Push Rejected “Non-Fast-Forward”
+
+add new lineRejected Non Fast Forward-Git Push Rejected “Non-Fast-Forward”
+
 <<<<<<< HEAD
 commit Various educatorsVarious educators teach rules governing the length of paragraphs. They may say that a paragraph should be 100 to 200 words long, or be no more than five or six sentences. But a good paragraph should not be measured in characters, words, or sentences. The true measure of your paragraphs should be ideas.
 
